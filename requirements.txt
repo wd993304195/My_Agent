@@ -1,0 +1,9 @@
+streamlit
+openai>=1.0
+langchain
+langchain-community
+faiss-cpu
+pypdf
+python-dotenv
+tiktoken
+fastembed
