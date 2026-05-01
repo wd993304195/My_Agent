@@ -1,5 +1,5 @@
 
-# GeoAI Agent Pro
+# 你的地理老师
 
 AI驱动的地学知识库与教案辅助开发平台（LLM + RAG + Streamlit）
 
